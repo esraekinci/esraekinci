@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I am Esra 👋
+- 🌱 I'm a Junior Software Developer that continues learning all the time.
+- 🌱 I’m currently learning .NET Core
+- 📫 How to reach me: https://www.linkedin.com/in/esraekinci/
 
 <!--
 **esraekinci/esraekinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
